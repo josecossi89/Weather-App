@@ -1,5 +1,8 @@
 # Weather-App
+<<<<<<< HEAD
 
+=======
+>>>>>>> acb343bc5b884432bed4a50aac90d46179984cbd
 ## Descripción
 
 Weather App es una SPA donde se puede visualizar la temperatura actual de paises y cuidades del mundo. En ella se renderiza informacion como:
@@ -11,9 +14,17 @@ Weather App es una SPA donde se puede visualizar la temperatura actual de paises
 
 ## Tecnologias usadas
 
+<<<<<<< HEAD
 React Js
 CSS
 Gestor de Paquetes YARN
+=======
+
+  React Js
+  CSS
+  Gestor de Paquetes YARN
+
+>>>>>>> acb343bc5b884432bed4a50aac90d46179984cbd
 
 ---
 
@@ -21,7 +32,11 @@ Gestor de Paquetes YARN
 
 ---
 
+<<<<<<< HEAD
 ## _Pantalla Principal_
+=======
+## *Pantalla Principal*
+>>>>>>> acb343bc5b884432bed4a50aac90d46179984cbd
 
 <p align="center">
   <img src="./weather-react/src/assets/mainPage.jpeg" />

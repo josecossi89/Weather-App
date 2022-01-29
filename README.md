@@ -36,9 +36,6 @@ Gestor de Paquetes YARN
 ## _Busqueda_
 
 
-## _Busqueda_
-
-
 <p align="center">
   <img src="./weather-react/src/assets/searchMain.jpeg" height="408" width="250"/>
 </p>

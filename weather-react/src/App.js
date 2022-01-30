@@ -44,12 +44,13 @@ function App() {
       "Saturday",
       "Sunday",
     ];
-    let day = days[d.getDay()];
+    let day = days[d.getDay() - 1];
     let date = d.getDate();
     let month = months[d.getMonth()];
     let year = d.getFullYear();
 
-    return `${day} ${date} ${month} ${year}`;
+    console.log(`${day} - ${date} ${month} ${year}`);
+    return `${day} - ${date} ${month} ${year}`;
   };
   return (
     <div
@@ -82,7 +83,7 @@ function App() {
             </div>
             <div className="weather-box">
               <div className="temp">{Math.round(weather.main.temp)}°c</div>
-              <div className="weather">{weather.weather[0].description}</div>
+              <div className="weather">{weather.weather[0].main}</div>
             </div>
           </div>
         ) : (

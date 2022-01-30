@@ -32,15 +32,9 @@ Gestor de Paquetes YARN
 <p align="center">
   <img src="./weather-react/src/assets/mainPage.jpeg" height="408" width="250"/>
 </p>
-<<<<<<< HEAD
 
 ## _Busqueda_
 
-=======
-
-## _Busqueda_
-
-> > > > > > > 84e8a5ba5a799484d2a6dcf3c874afdcdb52a531
 
 <p align="center">
   <img src="./weather-react/src/assets/searchMain.jpeg" height="408" width="250"/>
